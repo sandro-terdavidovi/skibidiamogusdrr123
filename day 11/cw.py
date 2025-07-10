@@ -65,4 +65,14 @@ print(True or False)
 
 a = 230 
 t = 340  
-print(t or a)
+print(t or a) 
+
+
+
+rere = 100 
+print(rere * 10 < 10000) 
+
+
+temperature = 30 
+temp_2 = 35 
+print(temperature < temp_2)
