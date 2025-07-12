@@ -75,4 +75,4 @@ print(rere * 10 < 10000)
 
 temperature = 30 
 temp_2 = 35 
-print(temperature < temp_2)
+print(temperature < temp_2)   
