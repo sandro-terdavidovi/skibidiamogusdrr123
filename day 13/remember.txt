@@ -1,0 +1,12 @@
+surname = "923804234" 
+for f in  surname  : 
+    print(int(f) >= 5) 
+
+    print("aaa"*50) 
+
+
+    for skibidi in range(100) : 
+        print("sandro")  
+
+        for skibidi in range(0,50,2) :  
+            print(skibidi)
