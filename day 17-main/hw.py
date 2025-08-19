@@ -1,4 +1,4 @@
-age = input("enter your age")
+age = int(input("enter your age"))
 if age == 18:
     print("შენ ხარ სრულწლოვანი")
 else:
