@@ -1,4 +1,4 @@
 
-for i in range(10, 50, 2):
+for i in range(20, 200, 2):
     print(i)
 
