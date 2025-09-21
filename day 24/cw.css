@@ -1,0 +1,69 @@
+/* კლასი არი გაკეთბული რო ბლოკების ჯგუფი დაანიშნო და ამის მერე ცსსში ყველა დააედითო ერთად კლასსით */
+.img {
+    border: red 10px solid;
+    height: 150px;
+    width: 150px;
+}
+
+.img2 {
+    border: purple double 10px;
+    height: 200px;
+    width: 200px;
+}
+
+.p {
+    background-color: blue;
+    text-align: center;
+}
+
+.p2 {
+    background-color:green;
+    text-align: center;
+}
+
+.heading {
+    border: blue solid 10px;
+    color:blueviolet;
+}
+
+.button1 {
+    border: red double dotted 10px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#but1 {
+    background-color: aliceblue;
+    border: red double dotted 10px;
+    color: aqua;
+    text-align: center;
+}
+
+#but2 {
+    background-color: aliceblue;
+    border: red double dotted 10px;
+    color: aqua;
+    text-align: center;
+}
+
+#but3 {
+    background-color: aliceblue;
+    border: red double dotted 10px;
+    color: aqua;
+    text-align: center;
+}
+
+#but4 {
+    background-color: aliceblue;
+    border: red double dotted 10px;
+    color: aqua;
+    text-align: center;
+}
+
+#but5 {
+    background-color: aliceblue;
+    border: red double dotted 10px;
+    color: aqua;
+    text-align: center;
+}
+
