@@ -1,0 +1,17 @@
+p:hover {
+   background-color: aliceblue;
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    background-color: aqua;
+    text-decoration: dashed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    background-color: aqua;
+    border: darkblue dashed 10px;
+    
+}
