@@ -1,0 +1,26 @@
+/*:link
+:visited
+:active */
+
+a {color:blue; text-decoration: underline;}
+
+a:visited {
+    color: blueviolet;
+}
+
+.hi {
+    width: 500px;
+    
+}
+
+.hi:hover {
+    background-color: green;
+    color:aliceblue;
+    transition:color 5s;
+}
+
+button:active {
+    background-color: darkblue;
+    border:2px solid red;
+}
+

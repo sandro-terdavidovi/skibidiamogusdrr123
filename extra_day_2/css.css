@@ -1,0 +1,14 @@
+.p {
+   border: red solid 10px;
+   background-color: lawngreen;
+}
+
+#h1 {
+    border: ridge 10px magenta;
+    background-color: lawngreen;
+}
+
+.img {
+    border: ridge 50px red;
+    background-color:blueviolet;
+}
